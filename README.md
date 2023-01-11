@@ -1,5 +1,4 @@
 
-[<img src="https://github-ads.s3.eu-central-1.amazonaws.com/support-ukraine.svg?t=1" />](https://supportukrainenow.org)
 
 # A demo Laravel app to demonstrate the dangers of using firstOrCreate in a queued environment
 
